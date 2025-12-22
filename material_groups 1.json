@@ -1,0 +1,3004 @@
+{
+  "RTV Silicone": [
+    {
+      "material_number": "75310050995",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75313647080",
+      "plant_code": "7511"
+    }
+  ],
+  "Bearings": [
+    {
+      "material_number": "75060600207141",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060602307277",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060602309243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060602310346",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060602411346",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060606310212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060606312212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060606314212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060606318212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060607311102",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060607315243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060609305243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060609310277",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060611014224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612215245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612217245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612218152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612220152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612222312",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612228152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612306999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612312243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612313201",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612316999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612317999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612318999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060612320999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060613309212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060613311212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060613313212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060613317212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060613422318",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060613706141",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060615942414",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060615957110",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060615958000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060615959000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621205999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060621628795",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621630771",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621632300",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621641000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621648530",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621710200",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621712100",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621901000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621901100",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621901400",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621901500",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621901800",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621903000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621905000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621906600",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621915340",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621921000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621941000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060621941300",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060622003340",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060622309465",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060622311465",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060622405999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622407999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622408999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622448999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622602999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622604104",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622605999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622608999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622613999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622615200",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622619999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060622624225",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060623002999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060623010999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060623304999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624101999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624102999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624105999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624106999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624107999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624108999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624110999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624112999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624113999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624114999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624115102",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624117224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624118999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624205999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624206999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624212999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624222999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624300999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624301999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624302999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624303999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624304999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624305999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624306999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624307999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624308999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624309999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624407999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624409244",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624418152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624419300",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624420152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624422225",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624424240",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624426152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624505999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624702999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624703999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624704999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624705999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624706999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624708999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624709999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624710270",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624710354",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624711270",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624712201",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624713999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060624715999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625105999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625106999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625107999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625501999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625503999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625504999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625505999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625506999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625507999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625509999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625510102",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625512999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625513245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625514999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625516999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625518999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625520999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625522999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625524230",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625605999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625606999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625608999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625610999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625612999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625703999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625704999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625705999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625706999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625707999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625708999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625709999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625710999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625711999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625713111",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625810999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625812280",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625813999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625814999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625816999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625817999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625818999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625819999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625822999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060625910245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626105999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626106999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626108999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626109999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626110999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626111240",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626112999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626114999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626308999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626310999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626604999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626605999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626606999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060626607999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060627009133",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060655416000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060656105245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060656108248",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060656109143",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060656110999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060656112248",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060657220000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060657613245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060657624212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060657628152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060670120795",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060670310212",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672005369",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672208412",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672212212",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672216000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672218414",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672222212",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672224108",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672235000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672244000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672245460",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672246000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672247460",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672248460",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672250212",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672309108",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672311000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672312000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672353414",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672458211",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060672900466",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060673011241",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673108141",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673109102",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673110141",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673111133",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673112141",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673113235",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673114224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673115235",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673116279",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673130221",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673210245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673213224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673214999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673215242",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673216224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673217235",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673218235",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673219271",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673220235",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673224221",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673229324",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673322212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673348221",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673434221",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673436247",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673520215",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673524999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673532999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673534247",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673552244",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673712244",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673713279",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673716278",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673820245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673822245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673828248",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673912999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673914245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673916243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673918243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673924221",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060673926152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060674010795",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060674326244",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060674526243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060674528247",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060674532224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060674760242",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060674930242",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060675072244",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060675220152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060675913234",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060675920264",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060675924234",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060675926234",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060675928999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060675930221",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060676026264",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060676209460",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060676613248",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677009466",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060677015347",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060677025000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060677026000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060677029000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060677042466",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060677060210",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060677600212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677622221",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677640225",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677905245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677906245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677907245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677908245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677909245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060677910245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678005999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678010245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678011133",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678105243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678105244",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678206999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678213278",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678217245",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678308152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060678313999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060680020999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060690103106",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060690107108",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060690109106",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75065411014999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411015999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411017999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411018999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411019999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411020999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411022999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411024999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411028999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065411034999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065640005005",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065640005006",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065640005008",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065640005009",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065640005010",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065640005012",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065640005013",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065658326224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75065664022000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75065664023000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067602236000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067602260000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067602294000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067602300000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067602510102",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067602512243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067602518224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067602520224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067602632224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067610210999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067610213999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067610219999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067610626999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067612217999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004005",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004006",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004007",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004008",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004009",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004010",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004011",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004012",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004013",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004014",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004015",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069240004016",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75069306001600",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75069306022000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "78060606306581",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060606308554",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060610206142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060610508554",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060610510553",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060610606561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060610608574",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060610611532",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060610620931",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060610730000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060610850811",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060610960935",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060611005561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060611088983",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060612308552",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060612308554",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060613307572",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060613507142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060614052153",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060614208581",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060615960142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060615965142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060615971257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617004000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617008000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617011000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617109000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617120000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617140000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617150000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617154000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617166000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617180000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617280257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617500000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617506000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617525257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617605000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617606000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617607000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617614000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617708000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617711000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617718000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617765000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060617810000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060620096245",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060620220561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060620617561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060621625741",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060621818245",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060621924000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060622352142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622363242",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622839243",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622873000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622874000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622900000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622909000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622910000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622912000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622915000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622925000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622926000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622928000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622929000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060622931000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060624119582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060626032000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626034000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626036000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626038000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626039100",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626042000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626046000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626052000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626093000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626094945",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626307000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626315000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626408000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626534700",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626539000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626550000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626568000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626569000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626572000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626573000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060626623000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060650224831",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060654142994",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060654925591",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060655206000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060655520000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060655540000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060655570000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060655590000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060655615000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060656114561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060656520582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060656522582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060657220243",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060657611257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060661950908",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060667900258",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060668057252",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060668100252",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670120574",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060670122561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060670124561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060670209561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060670210241",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670210252",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670212573",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060670409000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670413000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670426561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060670640000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670674000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670870000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670873000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670878000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670896000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060670910142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060671308000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060671324257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060671328259",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060671330257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060671334257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060672100761",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060672117583",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060672215591",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060672321257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060672322905",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060672325000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060672334561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060672436067",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060672520574",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060672522561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060672528583",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060672544561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060672609000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060673040904",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060673044945",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060673144935",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060673436561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060674330831",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060675418582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060675705142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060675801245",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676001852",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060676201241",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676201245",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676242252",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676262252",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676315142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676320142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676320257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676325142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060676848934",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060676910000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060677010000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060677012241",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060677020241",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060677030844",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060677046000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060677058241",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060677058931",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060677214553",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060677215561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060677307582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060677308591",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060677312553",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060678008591",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060678022591",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060678111591",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060678509561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060680209833",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060701032966",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060701050000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060703125000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060703170000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060705269904",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78061440440000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "75060612234350",
+      "plant_code": "7560"
+    }
+  ],
+  "Belts": [
+    {
+      "material_number": "75060755453000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060755473000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060755482000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75060760050999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060760060999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060760063326",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060761046999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060761053999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060761075999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060761090999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060765112235",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060765132428",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060765224999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060766170247",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060766250318",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060767250210",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060767400210",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060767763234",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75060768225248",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "78060741700561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060742120561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060744260000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060744268000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060744290000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060745072000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060753315572",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060753750582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78060755482000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060755602000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78060755656000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060755762000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060760111899",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060771208831",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060771385933",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060771640934",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060771675982",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060771810000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060772000843",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060772006000",
+      "plant_code": "7811"
+    }
+  ],
+  "Couplings": [
+    {
+      "material_number": "75061105000792",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75061105005792",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75062416060352",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062416120352",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062423695243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062423710243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062423740243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062423760243",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062444710277",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062444850212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062445100212",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062445140132",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "78061440420000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78061440430000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062408110582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78062414120000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062420050000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062420070000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062420080000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062420090000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062420095000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062421530000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062430075941",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062430505706",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062430510703",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062430520706",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062430952831",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062431102831",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062431252902",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78062431402831",
+      "plant_code": "7811"
+    }
+  ],
+  "Chains": [
+    {
+      "material_number": "75061814100999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75061814120999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75061860200153",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75062140440601",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75065300060999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "78061822540000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78061822561000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78065123121552",
+      "plant_code": "7812"
+    }
+  ],
+  "Hoses": [
+    {
+      "material_number": "75064638480314",
+      "plant_code": "7511"
+    }
+  ],
+  "Pins": [
+    {
+      "material_number": "75066101030202",
+      "plant_code": "7560"
+    }
+  ],
+  "O-Rings": [
+    {
+      "material_number": "75066808060202",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "78066840059572",
+      "plant_code": "7812"
+    }
+  ],
+  "Seals": [
+    {
+      "material_number": "75066888020465",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75066982070224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067333040999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067333042999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067333062999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067334247212",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067334248110",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067334253200",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067334253210",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067334258000",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067334270153",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067334288467",
+      "plant_code": "7511"
+    },
+    {
+      "material_number": "75067334406332",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067334424224",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067334440152",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067334465246",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067334492143",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067335572999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067336075999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067337085999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067338010999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067349516102",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067349618352",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "75067410020999",
+      "plant_code": "7560"
+    },
+    {
+      "material_number": "78066200011936",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78066251116931",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78066867100931",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78066867110931",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78066867115934",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78066867137931",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78066868195901",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78066868305982",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78066868312961",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067306558841",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067307174992",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067320013235",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067320513591",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067320520582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067320522582",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067330810142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067330820000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067330840000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067331020000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067331080000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067331210000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067331210257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067331230000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067334253941",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067334255000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067334400835",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067337230000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067338010142",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067338034256",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067338035257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067338040258",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067338044258",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067338532891",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067338560000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067339075000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067339090000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067339100903",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067340022561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067340060574",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067343352941",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343460000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343471994",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343499935",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343605941",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343650000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343651985",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343702941",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343952941",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067343999961",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067344010000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067344190000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067344370000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067344501993",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "75067331234140",
+      "plant_code": "7511"
+    }
+  ],
+  "Bearing Housings": [
+    {
+      "material_number": "78060658519934",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060658520000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78060701510000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78064684516572",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78064684518572",
+      "plant_code": "7812"
+    }
+  ],
+  "Lubricants": [
+    {
+      "material_number": "78063642018931",
+      "plant_code": "7811"
+    }
+  ],
+  "Adhesives": [
+    {
+      "material_number": "78065306000041",
+      "plant_code": "7811"
+    }
+  ],
+  "Bearing Accessories": [
+    {
+      "material_number": "78065667116000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78065667128000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78065667130258",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067302580984",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067302594982",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067320517573",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067387513997",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067580209000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580309000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580310000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580311000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580315000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580316000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580320000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580340000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580350000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580360000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580430000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580440000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580440257",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580450000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580460000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580520000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067580530000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78067600211551",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067602320574",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067602328583",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067602630561",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78067619584000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067619640000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067619810000",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067623142901",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067623231961",
+      "plant_code": "7811"
+    },
+    {
+      "material_number": "78067715144591",
+      "plant_code": "7812"
+    },
+    {
+      "material_number": "78069340124000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78069340128000",
+      "plant_code": "7813"
+    },
+    {
+      "material_number": "78069340130258",
+      "plant_code": "7813"
+    }
+  ]
+}

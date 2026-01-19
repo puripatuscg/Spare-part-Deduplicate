@@ -1,0 +1,2028 @@
+{
+  "7560_75060624305999": {
+    "query_pk": "7560_75060624305999",
+    "query_description": "BEARING,DEEP GROOVE,6205-2Z,SKF  [F]",
+    "query_uom": "PC",
+    "query_embed_text": "short_description: bearing,deep groove,6205-2z,skf [f] long_description: bearing, bore type : cylindrical, internal clearance : normal clearance, seal/shield type : 2 metal seal, type : deep groove, mfr part no. : 6205-2z, iso no. : 6205, mfr name : skf, cage material : metal part_codes: short_description, long_description, seal/shield, bearing, deep, groove, 6205, skf, bore, type, cylindrical, internal, clearance, normal, seal, shield, metal, mfr, part, iso, name, cage, material",
+    "query_keyword_text": "bearing , deep groove , 6205-2z , skf [f] bearing , bore type cylindrical , internal clearance normal clearance , seal/shield type 2 metal seal , type deep groove , mfr part 6205-2z , iso 6205 , mfr name skf , cage material metal pc",
+    "answer_pk": "PO11_PO06131330634",
+    "answer_rank": null,
+    "answer_in_candidates": false,
+    "candidates_100": [
+      {
+        "pk_plant_matnum": "7560_75060624305999",
+        "material_description": "BEARING,DEEP GROOVE,6205-2Z,SKF  [F]",
+        "uom": "PC",
+        "final_score": 10.0,
+        "semantic_score": 1.0,
+        "bm25_score": 1.0,
+        "trigram_score": 1.0,
+        "trigram_raw_score": 1.0
+      },
+      {
+        "pk_plant_matnum": "7560_75060625707999",
+        "material_description": "BEARING,DEEP GROOVE,6307-2Z,SKF  [F]",
+        "uom": "PC",
+        "final_score": 9.233064430999736,
+        "semantic_score": 0.952,
+        "bm25_score": 0.919,
+        "trigram_score": 0.858,
+        "trigram_raw_score": 0.7894737
+      },
+      {
+        "pk_plant_matnum": "7813_78060617506000",
+        "material_description": "BEARING,DEEP GROOVE,6006-2Z,SKF(F)",
+        "uom": "PC",
+        "final_score": 9.13473660429082,
+        "semantic_score": 0.918,
+        "bm25_score": 0.943,
+        "trigram_score": 0.858,
+        "trigram_raw_score": 0.7894737
+      },
+      {
+        "pk_plant_matnum": "7813_78060622909000",
+        "material_description": "BEARING,DEEP GROOVE,6209-2Z/C3,SKF(F)",
+        "uom": "PC",
+        "final_score": 9.10103761808335,
+        "semantic_score": 0.918,
+        "bm25_score": 0.875,
+        "trigram_score": 0.943,
+        "trigram_raw_score": 0.82051283
+      },
+      {
+        "pk_plant_matnum": "7560_75060624709999",
+        "material_description": "BEARING,DEEP GROOVE,6209-2Z/C3,SKF  [F]",
+        "uom": "PC",
+        "final_score": 9.096445301945693,
+        "semantic_score": 0.935,
+        "bm25_score": 0.845,
+        "trigram_score": 0.943,
+        "trigram_raw_score": 0.82051283
+      },
+      {
+        "pk_plant_matnum": "7560_75060624206999",
+        "material_description": "BEARING,DEEP GROOVE,6206-Z,SKF [F]",
+        "uom": "PC",
+        "final_score": 8.960486959413203,
+        "semantic_score": 0.909,
+        "bm25_score": 0.919,
+        "trigram_score": 0.829,
+        "trigram_raw_score": 0.7631579
+      },
+      {
+        "pk_plant_matnum": "OL11_OL06BG0116205C",
+        "material_description": "\"BEARING,DEEP GROOVE,6205-2Z\"",
+        "uom": "PC",
+        "final_score": 7.946290238586174,
+        "semantic_score": 0.989,
+        "bm25_score": 1.0,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.8235294
+      },
+      {
+        "pk_plant_matnum": "257A_25067A000027076",
+        "material_description": "BEARING,DEEP GROOVE,619/6-2Z",
+        "uom": "PC",
+        "final_score": 7.5679643375342245,
+        "semantic_score": 0.958,
+        "bm25_score": 0.926,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.6315789
+      },
+      {
+        "pk_plant_matnum": "7560_75060624107999",
+        "material_description": "BEARING,DEEP GROOVE,6207,SKF  [5]",
+        "uom": "PC",
+        "final_score": 7.428541192149533,
+        "semantic_score": 0.943,
+        "bm25_score": 0.904,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7105263
+      },
+      {
+        "pk_plant_matnum": "7813_78060617525257",
+        "material_description": "BEARING,DEEP GROOVE,6020,SKF(F)",
+        "uom": "PC",
+        "final_score": 7.388286657082979,
+        "semantic_score": 0.921,
+        "bm25_score": 0.928,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7105263
+      },
+      {
+        "pk_plant_matnum": "7560_75060625501999",
+        "material_description": "BEARING,DEEP GROOVE,6301,SKF  [F]",
+        "uom": "PC",
+        "final_score": 7.3678901000457335,
+        "semantic_score": 0.931,
+        "bm25_score": 0.904,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7105263
+      },
+      {
+        "pk_plant_matnum": "7813_78060617765000",
+        "material_description": "BEARING,DEEP GROOVE,6305 NR,SKF(S)",
+        "uom": "PC",
+        "final_score": 7.3578187315519035,
+        "semantic_score": 0.915,
+        "bm25_score": 0.928,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.63414633
+      },
+      {
+        "pk_plant_matnum": "7560_75060625605999",
+        "material_description": "BEARING,DEEP GROOVE,6305-2RS1   [F]",
+        "uom": "PC",
+        "final_score": 7.344305678681341,
+        "semantic_score": 0.935,
+        "bm25_score": 0.89,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.6097561
+      },
+      {
+        "pk_plant_matnum": "7511_75060621642160",
+        "material_description": "BEARING,DEEP GROOVE,6318,SKF(F)",
+        "uom": "PC",
+        "final_score": 7.299482641185022,
+        "semantic_score": 0.899,
+        "bm25_score": 0.935,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7105263
+      },
+      {
+        "pk_plant_matnum": "7811_78060621924000",
+        "material_description": "BEARING,DEEP GROOVE,6308-2Z(F)",
+        "uom": "PC",
+        "final_score": 7.284936171456011,
+        "semantic_score": 0.902,
+        "bm25_score": 0.924,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.68421054
+      },
+      {
+        "pk_plant_matnum": "7560_75060626405999",
+        "material_description": "BEARING,DEEP GROOVE,6305 NR,SKF  [VMI]",
+        "uom": "PC",
+        "final_score": 7.248395332110145,
+        "semantic_score": 0.907,
+        "bm25_score": 0.904,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.59090906
+      },
+      {
+        "pk_plant_matnum": "7811_78060626550000",
+        "material_description": "BEARING,DEEP GROOVE,6005-2Z,(F)",
+        "uom": "PC",
+        "final_score": 7.17533406160557,
+        "semantic_score": 0.914,
+        "bm25_score": 0.869,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7297297
+      },
+      {
+        "pk_plant_matnum": "7813_78060622931000",
+        "material_description": "BEARING,DEEP GROOVE,6311-2Z/C3,(F)",
+        "uom": "PC",
+        "final_score": 7.122340521436174,
+        "semantic_score": 0.912,
+        "bm25_score": 0.854,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.63414633
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330808",
+        "material_description": "BEARING,DEEP GROOVE,6406,SKF (8)",
+        "uom": "PC",
+        "final_score": 6.488638138438108,
+        "semantic_score": 0.906,
+        "bm25_score": 0.652,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.625
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330638",
+        "material_description": "BEARING,DEEP GROOVE,6206 2Z",
+        "uom": "PC",
+        "final_score": 6.122145639731962,
+        "semantic_score": 0.904,
+        "bm25_score": 0.534,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7222222
+      },
+      {
+        "pk_plant_matnum": "7560_75060625708999",
+        "material_description": "BEARING,DEEP GROOVE,6308-2Z,SKF  [F]",
+        "uom": "PC",
+        "final_score": 4.473168969154358,
+        "semantic_score": 0.0,
+        "bm25_score": 0.919,
+        "trigram_score": 0.858,
+        "trigram_raw_score": 0.7894737
+      },
+      {
+        "pk_plant_matnum": "7511_75060621630771",
+        "material_description": "BEARING,DEEP GROOVE,6314-2Z/C3,SKF(F)",
+        "uom": "PC",
+        "final_score": 4.353921473026276,
+        "semantic_score": 0.0,
+        "bm25_score": 0.869,
+        "trigram_score": 0.874,
+        "trigram_raw_score": 0.73170733
+      },
+      {
+        "pk_plant_matnum": "7580_75060626210937",
+        "material_description": "BEARING,DEEP GROOVE,6210-2Z,SKF  [F]",
+        "uom": "PC",
+        "final_score": 4.320424437522888,
+        "semantic_score": 0.0,
+        "bm25_score": 0.845,
+        "trigram_score": 0.893,
+        "trigram_raw_score": 0.8378378
+      },
+      {
+        "pk_plant_matnum": "7560_75060626111240",
+        "material_description": "BEARING,DEEP GROOVE,6311-2Z/C3,SKF [F]",
+        "uom": "PC",
+        "final_score": 4.283493280410767,
+        "semantic_score": 0.0,
+        "bm25_score": 0.845,
+        "trigram_score": 0.874,
+        "trigram_raw_score": 0.73170733
+      },
+      {
+        "pk_plant_matnum": "7813_78060617166000",
+        "material_description": "BEARING,DEEP GROOVE,6320,SKF(F)",
+        "uom": "PC",
+        "final_score": 2.783772647380829,
+        "semantic_score": 0.0,
+        "bm25_score": 0.928,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7105263
+      },
+      {
+        "pk_plant_matnum": "7811_78060626408000",
+        "material_description": "BEARING,DEEP GROOVE,6408(S)",
+        "uom": "PC",
+        "final_score": 2.7726523876190186,
+        "semantic_score": 0.0,
+        "bm25_score": 0.924,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5641026
+      },
+      {
+        "pk_plant_matnum": "7811_78060626315000",
+        "material_description": "BEARING,DEEP GROOVE,6315 (F)",
+        "uom": "PC",
+        "final_score": 2.7392916083335876,
+        "semantic_score": 0.0,
+        "bm25_score": 0.913,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.6052632
+      },
+      {
+        "pk_plant_matnum": "7812_78060626406000",
+        "material_description": "BEARING,DEEP GROOVE,6406",
+        "uom": "PC",
+        "final_score": 2.7392916083335876,
+        "semantic_score": 0.0,
+        "bm25_score": 0.913,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.55263156
+      },
+      {
+        "pk_plant_matnum": "7812_78060620220561",
+        "material_description": "BEARING,DEEP GROOVE,6020,SKF   [VMI]",
+        "uom": "PC",
+        "final_score": 2.71334445476532,
+        "semantic_score": 0.0,
+        "bm25_score": 0.904,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5952381
+      },
+      {
+        "pk_plant_matnum": "7560_75060626606999",
+        "material_description": "BEARING,DEEP GROOVE,6406,SKF  [VMI] PO",
+        "uom": "PC",
+        "final_score": 2.71334445476532,
+        "semantic_score": 0.0,
+        "bm25_score": 0.904,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5555556
+      },
+      {
+        "pk_plant_matnum": "7511_75060621710900",
+        "material_description": "BEARING,DEEP GROOVE,6206-Z,(F)",
+        "uom": "PC",
+        "final_score": 2.605848491191864,
+        "semantic_score": 0.0,
+        "bm25_score": 0.869,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.65789473
+      },
+      {
+        "pk_plant_matnum": "7511_78060628950860",
+        "material_description": "BEARING,DEEP GROOVE,6304-2Z/C3,SKF,",
+        "uom": "PC",
+        "final_score": 2.555189609527588,
+        "semantic_score": 0.0,
+        "bm25_score": 0.852,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.68292683
+      },
+      {
+        "pk_plant_matnum": "7560_75060624419300",
+        "material_description": "BEARING,DEEP GROOVE,6219/C3,SKF  [VMI]",
+        "uom": "PC",
+        "final_score": 2.5107085704803467,
+        "semantic_score": 0.0,
+        "bm25_score": 0.837,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.59090906
+      },
+      {
+        "pk_plant_matnum": "7560_78060650305951",
+        "material_description": "BEARING,CYLINDRICAL,NU 305 ECJ",
+        "uom": "PC",
+        "final_score": 2.330313205718994,
+        "semantic_score": 0.0,
+        "bm25_score": 0.777,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16071428
+      },
+      {
+        "pk_plant_matnum": "7560_75060613309212",
+        "material_description": "BEARING,CYLINDRICAL,NUP 309 ECP  [F]",
+        "uom": "PC",
+        "final_score": 2.288303554058075,
+        "semantic_score": 0.0,
+        "bm25_score": 0.763,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1724138
+      },
+      {
+        "pk_plant_matnum": "7560_75060677906245",
+        "material_description": "BEARING,TAPER,30206 J2/Q  [F]",
+        "uom": "PC",
+        "final_score": 2.2685340642929077,
+        "semantic_score": 0.0,
+        "bm25_score": 0.756,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.19607843
+      },
+      {
+        "pk_plant_matnum": "7813_78060670409000",
+        "material_description": "BEARING,SPHERICAL,22309 E(S)",
+        "uom": "PC",
+        "final_score": 2.2549424171447754,
+        "semantic_score": 0.0,
+        "bm25_score": 0.752,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.19607843
+      },
+      {
+        "pk_plant_matnum": "7511_75060672248460",
+        "material_description": "BEARING,SPHERICAL,22318 E(F)",
+        "uom": "PC",
+        "final_score": 2.2549424171447754,
+        "semantic_score": 0.0,
+        "bm25_score": 0.752,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.24
+      },
+      {
+        "pk_plant_matnum": "7813_78060677020241",
+        "material_description": "BEARING,TAPER,31310 J2/QCL7C",
+        "uom": "ST",
+        "final_score": 2.2549424171447754,
+        "semantic_score": 0.0,
+        "bm25_score": 0.752,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.14545454
+      },
+      {
+        "pk_plant_matnum": "7560_75060673219271",
+        "material_description": "BEARING,SPHERICAL,22319 E  [VMI]",
+        "uom": "PC",
+        "final_score": 2.2240530252456665,
+        "semantic_score": 0.0,
+        "bm25_score": 0.741,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18518518
+      },
+      {
+        "pk_plant_matnum": "7560_78060663206941",
+        "material_description": "BEARING,CYLINDRICAL,NUP 2206 ECP",
+        "uom": "PC",
+        "final_score": 2.18574982881546,
+        "semantic_score": 0.0,
+        "bm25_score": 0.729,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.15517241
+      },
+      {
+        "pk_plant_matnum": "7560_78060610511552",
+        "material_description": "BEARING,CYLINDRICAL,NJ 211 ECP  [VMI]",
+        "uom": "PC",
+        "final_score": 2.110379219055176,
+        "semantic_score": 0.0,
+        "bm25_score": 0.703,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.15
+      },
+      {
+        "pk_plant_matnum": "7813_78060670873000",
+        "material_description": "BEARING,SPHERICAL,22213 EK(F)",
+        "uom": "PC",
+        "final_score": 2.0770182609558105,
+        "semantic_score": 0.0,
+        "bm25_score": 0.692,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.23529412
+      },
+      {
+        "pk_plant_matnum": "7813_78060668057252",
+        "material_description": "BEARING,SPHERICAL,22217 EK(F)",
+        "uom": "PC",
+        "final_score": 2.0770182609558105,
+        "semantic_score": 0.0,
+        "bm25_score": 0.692,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.23529412
+      },
+      {
+        "pk_plant_matnum": "7812_78060672117583",
+        "material_description": "BEARING,SPHERICAL,22217 EK   [VMI]",
+        "uom": "PC",
+        "final_score": 2.0461288690567017,
+        "semantic_score": 0.0,
+        "bm25_score": 0.682,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18181819
+      },
+      {
+        "pk_plant_matnum": "7560_75060673912999",
+        "material_description": "BEARING,SPHERICAL,22312 E/C3  [F]",
+        "uom": "PC",
+        "final_score": 2.0016478300094604,
+        "semantic_score": 0.0,
+        "bm25_score": 0.667,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.2264151
+      },
+      {
+        "pk_plant_matnum": "7560_75060673914245",
+        "material_description": "BEARING,SPHERICAL,22314 E/C3  [F]",
+        "uom": "PC",
+        "final_score": 2.0016478300094604,
+        "semantic_score": 0.0,
+        "bm25_score": 0.667,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.2264151
+      },
+      {
+        "pk_plant_matnum": "7511_75060672353414",
+        "material_description": "BEARING,SPHERICAL,22313 EK/C3(F)",
+        "uom": "PC",
+        "final_score": 1.8546130657196045,
+        "semantic_score": 0.0,
+        "bm25_score": 0.618,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.22222222
+      },
+      {
+        "pk_plant_matnum": "7511_75060672408313",
+        "material_description": "BEARING,SPHER,23068 CAC/W33/C3(IM)(8)",
+        "uom": "PC",
+        "final_score": 1.8434928059577942,
+        "semantic_score": 0.0,
+        "bm25_score": 0.614,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16949153
+      },
+      {
+        "pk_plant_matnum": "OL11_OL06BG0622324Z",
+        "material_description": "BEARING,SPHERICAL,22324 CCK/W33/C3",
+        "uom": "PC",
+        "final_score": 1.8434928059577942,
+        "semantic_score": 0.0,
+        "bm25_score": 0.614,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1724138
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330687",
+        "material_description": "BEARING,DEEP GROOVE,6315 (VMI)",
+        "uom": "PC",
+        "final_score": 1.77924245595932,
+        "semantic_score": 0.0,
+        "bm25_score": 0.593,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330639",
+        "material_description": "BEARING,DEEP GROOVE,6207 (VMI)",
+        "uom": "PC",
+        "final_score": 1.77924245595932,
+        "semantic_score": 0.0,
+        "bm25_score": 0.593,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.575
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330816",
+        "material_description": "BEARING,DEEP GROOVE,6320",
+        "uom": "PC",
+        "final_score": 1.77924245595932,
+        "semantic_score": 0.0,
+        "bm25_score": 0.593,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.55263156
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330688",
+        "material_description": "BEARING,DEEP GROOVE,6318",
+        "uom": "PC",
+        "final_score": 1.77924245595932,
+        "semantic_score": 0.0,
+        "bm25_score": 0.593,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.55263156
+      },
+      {
+        "pk_plant_matnum": "7560_75060671313937",
+        "material_description": "BEARING,SPHERICAL,21313 E/W33  [VMI]",
+        "uom": "PC",
+        "final_score": 1.6457993388175964,
+        "semantic_score": 0.0,
+        "bm25_score": 0.549,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1724138
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330917",
+        "material_description": "BEARING,DEEP GROOVE,6305 2RS1",
+        "uom": "PC",
+        "final_score": 1.6013182997703552,
+        "semantic_score": 0.0,
+        "bm25_score": 0.534,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5609756
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330645",
+        "material_description": "BEARING,DEEP GROOVE,6210 2Z",
+        "uom": "PC",
+        "final_score": 1.6013182997703552,
+        "semantic_score": 0.0,
+        "bm25_score": 0.534,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.6756757
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330804",
+        "material_description": "BEARING,DEEP GROOVE,6006 2Z",
+        "uom": "PC",
+        "final_score": 1.6013182997703552,
+        "semantic_score": 0.0,
+        "bm25_score": 0.534,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.6315789
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330669",
+        "material_description": "BEARING,DEEP GROOVE,6307 2Z",
+        "uom": "PC",
+        "final_score": 1.6013182997703552,
+        "semantic_score": 0.0,
+        "bm25_score": 0.534,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.6315789
+      },
+      {
+        "pk_plant_matnum": "25AA_2506AA110027001",
+        "material_description": "BEARING,UNIT, INSERT D-LOCK FB23",
+        "uom": "PC",
+        "final_score": 1.5948439836502075,
+        "semantic_score": 0.0,
+        "bm25_score": 0.532,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.17857143
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330853",
+        "material_description": "BEARING,DEEP GROOVE,6219 C3",
+        "uom": "PC",
+        "final_score": 1.556837260723114,
+        "semantic_score": 0.0,
+        "bm25_score": 0.519,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.55
+      },
+      {
+        "pk_plant_matnum": "254A_25064A110027029",
+        "material_description": "BEARING,NEEDLE,NAG4914",
+        "uom": "PC",
+        "final_score": 1.5321253538131714,
+        "semantic_score": 0.0,
+        "bm25_score": 0.511,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16666667
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330967",
+        "material_description": "BEARING,DEEPGROOVE,62052Z",
+        "uom": "PC",
+        "final_score": 1.378913015127182,
+        "semantic_score": 0.0,
+        "bm25_score": 0.46,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.57894737
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330664",
+        "material_description": "BEARING,DEEPGROOVE,6301",
+        "uom": "PC",
+        "final_score": 1.3344319760799408,
+        "semantic_score": 0.0,
+        "bm25_score": 0.445,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.45
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330891",
+        "material_description": "BEARING,DEEPGROOVE,6408",
+        "uom": "PC",
+        "final_score": 1.3344319760799408,
+        "semantic_score": 0.0,
+        "bm25_score": 0.445,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.45
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131331531",
+        "material_description": "BEARING,CYLINDRICAL ROLLER,NU 308 ECP [5",
+        "uom": "PC",
+        "final_score": 1.220758080482483,
+        "semantic_score": 0.0,
+        "bm25_score": 0.407,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.121212125
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131331570",
+        "material_description": "BEARING,CYLINDRICAL ROLLER,NUP 309 ECP",
+        "uom": "PC",
+        "final_score": 1.20098876953125,
+        "semantic_score": 0.0,
+        "bm25_score": 0.4,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.12307692
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131331526",
+        "material_description": "BEARING,CYLINDRICAL,NU 218 ECP (VMI)",
+        "uom": "PC",
+        "final_score": 1.20098876953125,
+        "semantic_score": 0.0,
+        "bm25_score": 0.4,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.15
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131335090",
+        "material_description": "BEARING,SPHERICAL,24132 CCK/W33 (VMI)-PB",
+        "uom": "PC",
+        "final_score": 1.1565077304840088,
+        "semantic_score": 0.0,
+        "bm25_score": 0.386,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.15873016
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131335016",
+        "material_description": "BEARING,SPHERICAL,22217EK/W33",
+        "uom": "PC",
+        "final_score": 1.1565077304840088,
+        "semantic_score": 0.0,
+        "bm25_score": 0.386,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18518518
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131335138",
+        "material_description": "BEARING,SPHERICAL,24130CC/W33",
+        "uom": "PC",
+        "final_score": 1.1565077304840088,
+        "semantic_score": 0.0,
+        "bm25_score": 0.386,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18518518
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330620",
+        "material_description": "BEARING,DEEPGROOVE,60052Z",
+        "uom": "PC",
+        "final_score": 1.1565077304840088,
+        "semantic_score": 0.0,
+        "bm25_score": 0.386,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.46341464
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131335054",
+        "material_description": "BEARING,SPHERICAL ROLLER,22319 E",
+        "uom": "PC",
+        "final_score": 1.1565077304840088,
+        "semantic_score": 0.0,
+        "bm25_score": 0.386,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1754386
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131331604",
+        "material_description": "BEARING,ROLLER,NU218ECP",
+        "uom": "PC",
+        "final_score": 1.1565077304840088,
+        "semantic_score": 0.0,
+        "bm25_score": 0.386,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131335013",
+        "material_description": "BEARING,SPHERICAL ROLLER,22213 EK",
+        "uom": "PC",
+        "final_score": 1.1565077304840088,
+        "semantic_score": 0.0,
+        "bm25_score": 0.386,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1724138
+      },
+      {
+        "pk_plant_matnum": "OL11_OL06BG0622219A",
+        "material_description": "\"BEARING,SPHERICAL,22219 EK/C3\"",
+        "uom": "PC",
+        "final_score": 1.1120266914367676,
+        "semantic_score": 0.0,
+        "bm25_score": 0.371,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18518518
+      },
+      {
+        "pk_plant_matnum": "7811_78060701050000",
+        "material_description": "BEARING,UNIT,SYJ 40 TF (F)",
+        "uom": "PC",
+        "final_score": 1.0539540946483612,
+        "semantic_score": 0.0,
+        "bm25_score": 0.351,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.22916667
+      },
+      {
+        "pk_plant_matnum": "7813_78060671334257",
+        "material_description": "BEARING,THRUST,29334 E(COM)",
+        "uom": "PC",
+        "final_score": 0.9649920165538788,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.17307693
+      },
+      {
+        "pk_plant_matnum": "7560_75060677604215",
+        "material_description": "BEARING,THRUST,29334 E  [VMI]",
+        "uom": "PC",
+        "final_score": 0.9538716673851013,
+        "semantic_score": 0.0,
+        "bm25_score": 0.318,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.17307693
+      },
+      {
+        "pk_plant_matnum": "7560_75060677622221",
+        "material_description": "BEARING,SPHERICAL,29322 E   [VMI]",
+        "uom": "PC",
+        "final_score": 0.9341024458408356,
+        "semantic_score": 0.0,
+        "bm25_score": 0.311,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18518518
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330914",
+        "material_description": "BEARING,DEEPGROOVE,63142ZC3",
+        "uom": "PC",
+        "final_score": 0.9341024458408356,
+        "semantic_score": 0.0,
+        "bm25_score": 0.311,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.4090909
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131335057",
+        "material_description": "BEARING,SPHERICAL ROLLER,22312 E/C3",
+        "uom": "PC",
+        "final_score": 0.9341024458408356,
+        "semantic_score": 0.0,
+        "bm25_score": 0.311,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16666667
+      },
+      {
+        "pk_plant_matnum": "7560_54060650443573",
+        "material_description": "BEARING,UNIT,FC-B22443E,LINK-BELT",
+        "uom": "PC",
+        "final_score": 0.831548810005188,
+        "semantic_score": 0.0,
+        "bm25_score": 0.277,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16071428
+      },
+      {
+        "pk_plant_matnum": "7813_78060655460000",
+        "material_description": "BEARING,UNIT,UCFL 205 D1,NTN",
+        "uom": "PC",
+        "final_score": 0.831548810005188,
+        "semantic_score": 0.0,
+        "bm25_score": 0.277,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.24
+      },
+      {
+        "pk_plant_matnum": "7812_78060654925591",
+        "material_description": "BEARING,UNIT,UCFL 205 D1 JPN30X1,NTN",
+        "uom": "PC",
+        "final_score": 0.8204284608364105,
+        "semantic_score": 0.0,
+        "bm25_score": 0.273,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.20689656
+      },
+      {
+        "pk_plant_matnum": "7511_78067302594997",
+        "material_description": "BEARING,SEAL, TXL 615 (F)",
+        "uom": "ST",
+        "final_score": 0.7067546993494034,
+        "semantic_score": 0.0,
+        "bm25_score": 0.236,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.26666668
+      },
+      {
+        "pk_plant_matnum": "7813_78067302576935",
+        "material_description": "BEARING,SEAL,TSNA513GE",
+        "uom": "ST",
+        "final_score": 0.6869852989912033,
+        "semantic_score": 0.0,
+        "bm25_score": 0.229,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1875
+      },
+      {
+        "pk_plant_matnum": "7560_78065660348863",
+        "material_description": "BEARING,ACC,LOCK NUT,KM 34(F)",
+        "uom": "PC",
+        "final_score": 0.4645799696445465,
+        "semantic_score": 0.0,
+        "bm25_score": 0.155,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18867925
+      },
+      {
+        "pk_plant_matnum": "7813_78067338010142",
+        "material_description": "SEAL,35 X 47 X 7 MM.,2LIP,NBR",
+        "uom": "PC",
+        "final_score": 0.44968968629837036,
+        "semantic_score": 0.0,
+        "bm25_score": 0.15,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.033898305
+      },
+      {
+        "pk_plant_matnum": "7813_78067580340000",
+        "material_description": "BEARING,ACC,ADAPTER SLEEVE,H 2308(F)",
+        "uom": "PC",
+        "final_score": 0.44481061398983,
+        "semantic_score": 0.0,
+        "bm25_score": 0.148,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.23214285
+      },
+      {
+        "pk_plant_matnum": "7580_75067340025710",
+        "material_description": "SEAL,OIL,25X40X7 MM,2LIP,VITON",
+        "uom": "PC",
+        "final_score": 0.4432785362005234,
+        "semantic_score": 0.0,
+        "bm25_score": 0.148,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.032258064
+      },
+      {
+        "pk_plant_matnum": "257A_25067A000030002",
+        "material_description": "SEAL,80X105X13MM,2LIPMETAL(TB),NBR",
+        "uom": "PC",
+        "final_score": 0.4312191903591156,
+        "semantic_score": 0.0,
+        "bm25_score": 0.144,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.03076923
+      },
+      {
+        "pk_plant_matnum": "7511_75060657220000",
+        "material_description": "BEARING,HOUSING,SNL520-617(F)",
+        "uom": "PC",
+        "final_score": 0.4312191903591156,
+        "semantic_score": 0.0,
+        "bm25_score": 0.144,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.24489796
+      },
+      {
+        "pk_plant_matnum": "7811_78067334400835",
+        "material_description": "SEAL,140 X 170 X 14 MM.,?,NBR",
+        "uom": "PC",
+        "final_score": 0.4312191903591156,
+        "semantic_score": 0.0,
+        "bm25_score": 0.144,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.018181818
+      },
+      {
+        "pk_plant_matnum": "7560_75067334291305",
+        "material_description": "SEAL,1.1/16 X 1.5/8 X 3/8 IN,2 LIP,(ZN)",
+        "uom": "PC",
+        "final_score": 0.4312191903591156,
+        "semantic_score": 0.0,
+        "bm25_score": 0.144,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.032786883
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131334526",
+        "material_description": "BEARING,LINEAR,NEEDLE BEARING STO 25 2Z",
+        "uom": "PC",
+        "final_score": 0.4312191903591156,
+        "semantic_score": 0.0,
+        "bm25_score": 0.144,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.23076923
+      },
+      {
+        "pk_plant_matnum": "7511_75067334300468",
+        "material_description": "SEAL,330.20X368.30X19.05MM,HDS2,NBR(N)",
+        "uom": "PC",
+        "final_score": 0.4312191903591156,
+        "semantic_score": 0.0,
+        "bm25_score": 0.144,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.029411765
+      },
+      {
+        "pk_plant_matnum": "7560_78067344615934",
+        "material_description": "SEAL,14\"X15.500\"X0.687\",2Lip,NBR",
+        "uom": "PC",
+        "final_score": 0.4312191903591156,
+        "semantic_score": 0.0,
+        "bm25_score": 0.144,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.048387095
+      },
+      {
+        "pk_plant_matnum": "7511_75067334222000",
+        "material_description": "SEAL,45X60X9MM,2Lip,NBR",
+        "uom": "PC",
+        "final_score": 0.4312191903591156,
+        "semantic_score": 0.0,
+        "bm25_score": 0.144,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.035714287
+      },
+      {
+        "pk_plant_matnum": "7813_78067580430000",
+        "material_description": "BEARING,ACC,ADAPTER SLEEVE,H 2311(F)",
+        "uom": "PC",
+        "final_score": 0.4200989305973053,
+        "semantic_score": 0.0,
+        "bm25_score": 0.14,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.23214285
+      }
+    ],
+    "search_time": 1.5700531005859375
+  },
+  "7511_75060621630771": {
+    "query_pk": "7511_75060621630771",
+    "query_description": "BEARING,DEEP GROOVE,6314-2Z/C3,SKF(F)",
+    "query_uom": "PC",
+    "query_embed_text": "short_description: bearing,deep groove,6314-2z/c3,skf(f) long_description: bearing, bore type : cylindrical, internal clearance : c3, seal/shield type : 2 metal seal, type : deep groove, mfr part no. : 6314-2z/c3, short name : bearing, iso no. : 6314, mfr name : skf, cage material : metal, application : motor wp.#3, remark : bearing deep groove 6314-2z/c3 \"skf or fag\" part_codes: short_description, 2z/c3, long_description, seal/shield, bearing, deep, groove, 6314, skf, bore, type, cylindrical, internal, clearance, seal, shield, metal, mfr, part, short, name, iso, cage, material, application, motor, remark, fag",
+    "query_keyword_text": "bearing , deep groove , 6314-2z/c3 , skf(f) bearing , bore type cylindrical , internal clearance c3 , seal/shield type 2 metal seal , type deep groove , mfr part 6314-2z/c3 , short name bearing , iso 6314 , mfr name skf , cage material metal , application motor wp.#3 , remark bearing deep groove 6314-2z/c3 pc",
+    "answer_pk": "7560_75060626114999",
+    "answer_rank": null,
+    "answer_in_candidates": false,
+    "candidates_100": [
+      {
+        "pk_plant_matnum": "7511_75060621630771",
+        "material_description": "BEARING,DEEP GROOVE,6314-2Z/C3,SKF(F)",
+        "uom": "PC",
+        "final_score": 10.0,
+        "semantic_score": 1.0,
+        "bm25_score": 1.0,
+        "trigram_score": 1.0,
+        "trigram_raw_score": 1.0
+      },
+      {
+        "pk_plant_matnum": "7560_75060626111240",
+        "material_description": "BEARING,DEEP GROOVE,6311-2Z/C3,SKF [F]",
+        "uom": "PC",
+        "final_score": 9.129853277250408,
+        "semantic_score": 0.916,
+        "bm25_score": 0.893,
+        "trigram_score": 0.935,
+        "trigram_raw_score": 0.8974359
+      },
+      {
+        "pk_plant_matnum": "7813_78060622909000",
+        "material_description": "BEARING,DEEP GROOVE,6209-2Z/C3,SKF(F)",
+        "uom": "PC",
+        "final_score": 8.94393745957887,
+        "semantic_score": 0.922,
+        "bm25_score": 0.865,
+        "trigram_score": 0.871,
+        "trigram_raw_score": 0.80487806
+      },
+      {
+        "pk_plant_matnum": "7511_78060628950860",
+        "material_description": "BEARING,DEEP GROOVE,6304-2Z/C3,SKF,",
+        "uom": "PC",
+        "final_score": 8.933220617169711,
+        "semantic_score": 0.907,
+        "bm25_score": 0.9,
+        "trigram_score": 0.85,
+        "trigram_raw_score": 0.8
+      },
+      {
+        "pk_plant_matnum": "7813_78060622931000",
+        "material_description": "BEARING,DEEP GROOVE,6311-2Z/C3,(F)",
+        "uom": "PC",
+        "final_score": 8.908564867117338,
+        "semantic_score": 0.945,
+        "bm25_score": 0.843,
+        "trigram_score": 0.828,
+        "trigram_raw_score": 0.7948718
+      },
+      {
+        "pk_plant_matnum": "7560_75060624709999",
+        "material_description": "BEARING,DEEP GROOVE,6209-2Z/C3,SKF  [F]",
+        "uom": "PC",
+        "final_score": 8.753402367439119,
+        "semantic_score": 0.901,
+        "bm25_score": 0.835,
+        "trigram_score": 0.871,
+        "trigram_raw_score": 0.80487806
+      },
+      {
+        "pk_plant_matnum": "7560_75060625707999",
+        "material_description": "BEARING,DEEP GROOVE,6307-2Z,SKF  [F]",
+        "uom": "PC",
+        "final_score": 8.724998447412032,
+        "semantic_score": 0.906,
+        "bm25_score": 0.849,
+        "trigram_score": 0.823,
+        "trigram_raw_score": 0.775
+      },
+      {
+        "pk_plant_matnum": "7560_75060625708999",
+        "material_description": "BEARING,DEEP GROOVE,6308-2Z,SKF  [F]",
+        "uom": "PC",
+        "final_score": 8.559669863139298,
+        "semantic_score": 0.873,
+        "bm25_score": 0.849,
+        "trigram_score": 0.823,
+        "trigram_raw_score": 0.775
+      },
+      {
+        "pk_plant_matnum": "7560_75060624305999",
+        "material_description": "BEARING,DEEP GROOVE,6205-2Z,SKF  [F]",
+        "uom": "PC",
+        "final_score": 8.558441084942547,
+        "semantic_score": 0.885,
+        "bm25_score": 0.849,
+        "trigram_score": 0.792,
+        "trigram_raw_score": 0.73170733
+      },
+      {
+        "pk_plant_matnum": "7813_78060617166000",
+        "material_description": "BEARING,DEEP GROOVE,6320,SKF(F)",
+        "uom": "PC",
+        "final_score": 7.2180470722544925,
+        "semantic_score": 0.894,
+        "bm25_score": 0.917,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7
+      },
+      {
+        "pk_plant_matnum": "7511_75060621642160",
+        "material_description": "BEARING,DEEP GROOVE,6318,SKF(F)",
+        "uom": "PC",
+        "final_score": 7.1763854271741145,
+        "semantic_score": 0.917,
+        "bm25_score": 0.865,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.74358976
+      },
+      {
+        "pk_plant_matnum": "7811_78060626315000",
+        "material_description": "BEARING,DEEP GROOVE,6315 (F)",
+        "uom": "PC",
+        "final_score": 7.090894775414303,
+        "semantic_score": 0.912,
+        "bm25_score": 0.843,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.64102566
+      },
+      {
+        "pk_plant_matnum": "7811_78060621924000",
+        "material_description": "BEARING,DEEP GROOVE,6308-2Z(F)",
+        "uom": "PC",
+        "final_score": 7.025464795922678,
+        "semantic_score": 0.892,
+        "bm25_score": 0.854,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.675
+      },
+      {
+        "pk_plant_matnum": "7560_75060624419300",
+        "material_description": "BEARING,DEEP GROOVE,6219/C3,SKF  [VMI]",
+        "uom": "PC",
+        "final_score": 7.018590000620307,
+        "semantic_score": 0.873,
+        "bm25_score": 0.885,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.62222224
+      },
+      {
+        "pk_plant_matnum": "7813_78060617525257",
+        "material_description": "BEARING,DEEP GROOVE,6020,SKF(F)",
+        "uom": "PC",
+        "final_score": 6.999039704351486,
+        "semantic_score": 0.885,
+        "bm25_score": 0.858,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.6585366
+      },
+      {
+        "pk_plant_matnum": "7813_78060617506000",
+        "material_description": "BEARING,DEEP GROOVE,6006-2Z,SKF(F)",
+        "uom": "PC",
+        "final_score": 6.996582973641366,
+        "semantic_score": 0.876,
+        "bm25_score": 0.873,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.73170733
+      },
+      {
+        "pk_plant_matnum": "257A_25067A000027076",
+        "material_description": "BEARING,DEEP GROOVE,619/6-2Z",
+        "uom": "PC",
+        "final_score": 6.989484827886503,
+        "semantic_score": 0.884,
+        "bm25_score": 0.856,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.58536583
+      },
+      {
+        "pk_plant_matnum": "OL11_OL06BG0116205C",
+        "material_description": "\"BEARING,DEEP GROOVE,6205-2Z\"",
+        "uom": "PC",
+        "final_score": 6.969280333829074,
+        "semantic_score": 0.884,
+        "bm25_score": 0.849,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.58536583
+      },
+      {
+        "pk_plant_matnum": "7560_75060625501999",
+        "material_description": "BEARING,DEEP GROOVE,6301,SKF  [F]",
+        "uom": "PC",
+        "final_score": 6.943263841831508,
+        "semantic_score": 0.888,
+        "bm25_score": 0.835,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.7
+      },
+      {
+        "pk_plant_matnum": "7560_75060673914245",
+        "material_description": "BEARING,SPHERICAL,22314 E/C3  [F]",
+        "uom": "PC",
+        "final_score": 6.335551749418367,
+        "semantic_score": 0.872,
+        "bm25_score": 0.659,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.33333334
+      },
+      {
+        "pk_plant_matnum": "7580_75060626210937",
+        "material_description": "BEARING,DEEP GROOVE,6210-2Z,SKF  [F]",
+        "uom": "PC",
+        "final_score": 3.9124114513397217,
+        "semantic_score": 0.0,
+        "bm25_score": 0.776,
+        "trigram_score": 0.792,
+        "trigram_raw_score": 0.73170733
+      },
+      {
+        "pk_plant_matnum": "7813_78060617765000",
+        "material_description": "BEARING,DEEP GROOVE,6305 NR,SKF(S)",
+        "uom": "PC",
+        "final_score": 2.574043929576874,
+        "semantic_score": 0.0,
+        "bm25_score": 0.858,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.59090906
+      },
+      {
+        "pk_plant_matnum": "7811_78060626408000",
+        "material_description": "BEARING,DEEP GROOVE,6408(S)",
+        "uom": "PC",
+        "final_score": 2.563059389591217,
+        "semantic_score": 0.0,
+        "bm25_score": 0.854,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.52380955
+      },
+      {
+        "pk_plant_matnum": "7560_75060624206999",
+        "material_description": "BEARING,DEEP GROOVE,6206-Z,SKF [F]",
+        "uom": "PC",
+        "final_score": 2.5484132766723633,
+        "semantic_score": 0.0,
+        "bm25_score": 0.849,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.627907
+      },
+      {
+        "pk_plant_matnum": "7812_78060626406000",
+        "material_description": "BEARING,DEEP GROOVE,6406",
+        "uom": "PC",
+        "final_score": 2.530105769634247,
+        "semantic_score": 0.0,
+        "bm25_score": 0.843,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5121951
+      },
+      {
+        "pk_plant_matnum": "7560_75060626405999",
+        "material_description": "BEARING,DEEP GROOVE,6305 NR,SKF  [VMI]",
+        "uom": "PC",
+        "final_score": 2.5044751167297363,
+        "semantic_score": 0.0,
+        "bm25_score": 0.835,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5531915
+      },
+      {
+        "pk_plant_matnum": "7560_75060624107999",
+        "material_description": "BEARING,DEEP GROOVE,6207,SKF  [5]",
+        "uom": "PC",
+        "final_score": 2.5044751167297363,
+        "semantic_score": 0.0,
+        "bm25_score": 0.835,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5813953
+      },
+      {
+        "pk_plant_matnum": "7560_75060626606999",
+        "material_description": "BEARING,DEEP GROOVE,6406,SKF  [VMI] PO",
+        "uom": "PC",
+        "final_score": 2.5044751167297363,
+        "semantic_score": 0.0,
+        "bm25_score": 0.835,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5208333
+      },
+      {
+        "pk_plant_matnum": "7812_78060620220561",
+        "material_description": "BEARING,DEEP GROOVE,6020,SKF   [VMI]",
+        "uom": "PC",
+        "final_score": 2.5044751167297363,
+        "semantic_score": 0.0,
+        "bm25_score": 0.835,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5555556
+      },
+      {
+        "pk_plant_matnum": "7560_75060625605999",
+        "material_description": "BEARING,DEEP GROOVE,6305-2RS1   [F]",
+        "uom": "PC",
+        "final_score": 2.4605371356010437,
+        "semantic_score": 0.0,
+        "bm25_score": 0.82,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5681818
+      },
+      {
+        "pk_plant_matnum": "7811_78060626550000",
+        "material_description": "BEARING,DEEP GROOVE,6005-2Z,(F)",
+        "uom": "PC",
+        "final_score": 2.3982914686203003,
+        "semantic_score": 0.0,
+        "bm25_score": 0.799,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.63414633
+      },
+      {
+        "pk_plant_matnum": "7511_75060621710900",
+        "material_description": "BEARING,DEEP GROOVE,6206-Z,(F)",
+        "uom": "PC",
+        "final_score": 2.3982914686203003,
+        "semantic_score": 0.0,
+        "bm25_score": 0.799,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.53488374
+      },
+      {
+        "pk_plant_matnum": "7560_78060650305951",
+        "material_description": "BEARING,CYLINDRICAL,NU 305 ECJ",
+        "uom": "PC",
+        "final_score": 2.1261189579963684,
+        "semantic_score": 0.0,
+        "bm25_score": 0.709,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.15254237
+      },
+      {
+        "pk_plant_matnum": "7560_75060613309212",
+        "material_description": "BEARING,CYLINDRICAL,NUP 309 ECP  [F]",
+        "uom": "PC",
+        "final_score": 2.0846219658851624,
+        "semantic_score": 0.0,
+        "bm25_score": 0.695,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18333334
+      },
+      {
+        "pk_plant_matnum": "7560_75060677906245",
+        "material_description": "BEARING,TAPER,30206 J2/Q  [F]",
+        "uom": "PC",
+        "final_score": 2.065093696117401,
+        "semantic_score": 0.0,
+        "bm25_score": 0.688,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18518518
+      },
+      {
+        "pk_plant_matnum": "7511_75060672248460",
+        "material_description": "BEARING,SPHERICAL,22318 E(F)",
+        "uom": "PC",
+        "final_score": 2.0516679883003235,
+        "semantic_score": 0.0,
+        "bm25_score": 0.684,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.2264151
+      },
+      {
+        "pk_plant_matnum": "7813_78060677020241",
+        "material_description": "BEARING,TAPER,31310 J2/QCL7C",
+        "uom": "ST",
+        "final_score": 2.0516679883003235,
+        "semantic_score": 0.0,
+        "bm25_score": 0.684,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.13793103
+      },
+      {
+        "pk_plant_matnum": "7813_78060670409000",
+        "material_description": "BEARING,SPHERICAL,22309 E(S)",
+        "uom": "PC",
+        "final_score": 2.0516679883003235,
+        "semantic_score": 0.0,
+        "bm25_score": 0.684,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18518518
+      },
+      {
+        "pk_plant_matnum": "7560_75060673219271",
+        "material_description": "BEARING,SPHERICAL,22319 E  [VMI]",
+        "uom": "PC",
+        "final_score": 2.0211557149887085,
+        "semantic_score": 0.0,
+        "bm25_score": 0.674,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1754386
+      },
+      {
+        "pk_plant_matnum": "7560_78060663206941",
+        "material_description": "BEARING,CYLINDRICAL,NUP 2206 ECP",
+        "uom": "PC",
+        "final_score": 1.9833197593688965,
+        "semantic_score": 0.0,
+        "bm25_score": 0.661,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16666667
+      },
+      {
+        "pk_plant_matnum": "7560_75060673912999",
+        "material_description": "BEARING,SPHERICAL,22312 E/C3  [F]",
+        "uom": "PC",
+        "final_score": 1.9772173762321472,
+        "semantic_score": 0.0,
+        "bm25_score": 0.659,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.28301886
+      },
+      {
+        "pk_plant_matnum": "7560_78060610511552",
+        "material_description": "BEARING,CYLINDRICAL,NJ 211 ECP  [VMI]",
+        "uom": "PC",
+        "final_score": 1.9088691473007202,
+        "semantic_score": 0.0,
+        "bm25_score": 0.636,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16129032
+      },
+      {
+        "pk_plant_matnum": "7813_78060670873000",
+        "material_description": "BEARING,SPHERICAL,22213 EK(F)",
+        "uom": "PC",
+        "final_score": 1.87591552734375,
+        "semantic_score": 0.0,
+        "bm25_score": 0.625,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.22222222
+      },
+      {
+        "pk_plant_matnum": "7813_78060668057252",
+        "material_description": "BEARING,SPHERICAL,22217 EK(F)",
+        "uom": "PC",
+        "final_score": 1.87591552734375,
+        "semantic_score": 0.0,
+        "bm25_score": 0.625,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.22222222
+      },
+      {
+        "pk_plant_matnum": "7812_78060672117583",
+        "material_description": "BEARING,SPHERICAL,22217 EK   [VMI]",
+        "uom": "PC",
+        "final_score": 1.8454028964042664,
+        "semantic_score": 0.0,
+        "bm25_score": 0.615,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1724138
+      },
+      {
+        "pk_plant_matnum": "7511_75060672353414",
+        "material_description": "BEARING,SPHERICAL,22313 EK/C3(F)",
+        "uom": "PC",
+        "final_score": 1.8319771885871887,
+        "semantic_score": 0.0,
+        "bm25_score": 0.611,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.2777778
+      },
+      {
+        "pk_plant_matnum": "7511_75060672408313",
+        "material_description": "BEARING,SPHER,23068 CAC/W33/C3(IM)(8)",
+        "uom": "PC",
+        "final_score": 1.8209928274154663,
+        "semantic_score": 0.0,
+        "bm25_score": 0.607,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.22033899
+      },
+      {
+        "pk_plant_matnum": "OL11_OL06BG0622324Z",
+        "material_description": "BEARING,SPHERICAL,22324 CCK/W33/C3",
+        "uom": "PC",
+        "final_score": 1.8209928274154663,
+        "semantic_score": 0.0,
+        "bm25_score": 0.607,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.22413793
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330808",
+        "material_description": "BEARING,DEEP GROOVE,6406,SKF (8)",
+        "uom": "PC",
+        "final_score": 1.7575265765190125,
+        "semantic_score": 0.0,
+        "bm25_score": 0.586,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5813953
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330687",
+        "material_description": "BEARING,DEEP GROOVE,6315 (VMI)",
+        "uom": "PC",
+        "final_score": 1.581774115562439,
+        "semantic_score": 0.0,
+        "bm25_score": 0.527,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.53488374
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330688",
+        "material_description": "BEARING,DEEP GROOVE,6318",
+        "uom": "PC",
+        "final_score": 1.581774115562439,
+        "semantic_score": 0.0,
+        "bm25_score": 0.527,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5897436
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330816",
+        "material_description": "BEARING,DEEP GROOVE,6320",
+        "uom": "PC",
+        "final_score": 1.581774115562439,
+        "semantic_score": 0.0,
+        "bm25_score": 0.527,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.55
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330639",
+        "material_description": "BEARING,DEEP GROOVE,6207 (VMI)",
+        "uom": "PC",
+        "final_score": 1.581774115562439,
+        "semantic_score": 0.0,
+        "bm25_score": 0.527,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.46666667
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330853",
+        "material_description": "BEARING,DEEP GROOVE,6219 C3",
+        "uom": "PC",
+        "final_score": 1.537835955619812,
+        "semantic_score": 0.0,
+        "bm25_score": 0.513,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.58536583
+      },
+      {
+        "pk_plant_matnum": "7560_75060671313937",
+        "material_description": "BEARING,SPHERICAL,21313 E/W33  [VMI]",
+        "uom": "PC",
+        "final_score": 1.449959546327591,
+        "semantic_score": 0.0,
+        "bm25_score": 0.483,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16393442
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330638",
+        "material_description": "BEARING,DEEP GROOVE,6206 2Z",
+        "uom": "PC",
+        "final_score": 1.406021386384964,
+        "semantic_score": 0.0,
+        "bm25_score": 0.469,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.58536583
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330669",
+        "material_description": "BEARING,DEEP GROOVE,6307 2Z",
+        "uom": "PC",
+        "final_score": 1.406021386384964,
+        "semantic_score": 0.0,
+        "bm25_score": 0.469,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.625
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330645",
+        "material_description": "BEARING,DEEP GROOVE,6210 2Z",
+        "uom": "PC",
+        "final_score": 1.406021386384964,
+        "semantic_score": 0.0,
+        "bm25_score": 0.469,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.58536583
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330804",
+        "material_description": "BEARING,DEEP GROOVE,6006 2Z",
+        "uom": "PC",
+        "final_score": 1.406021386384964,
+        "semantic_score": 0.0,
+        "bm25_score": 0.469,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.58536583
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131330917",
+        "material_description": "BEARING,DEEP GROOVE,6305 2RS1",
+        "uom": "PC",
+        "final_score": 1.406021386384964,
+        "semantic_score": 0.0,
+        "bm25_score": 0.469,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.52272725
+      },
+      {
+        "pk_plant_matnum": "25AA_2506AA110027001",
+        "material_description": "BEARING,UNIT, INSERT D-LOCK FB23",
+        "uom": "PC",
+        "final_score": 1.3996260166168213,
+        "semantic_score": 0.0,
+        "bm25_score": 0.467,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16949153
+      },
+      {
+        "pk_plant_matnum": "254A_25064A110027029",
+        "material_description": "BEARING,NEEDLE,NAG4914",
+        "uom": "PC",
+        "final_score": 1.3376730680465698,
+        "semantic_score": 0.0,
+        "bm25_score": 0.446,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330914",
+        "material_description": "BEARING,DEEPGROOVE,63142ZC3",
+        "uom": "PC",
+        "final_score": 1.142392337322235,
+        "semantic_score": 0.0,
+        "bm25_score": 0.381,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.5116279
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330664",
+        "material_description": "BEARING,DEEPGROOVE,6301",
+        "uom": "PC",
+        "final_score": 1.142392337322235,
+        "semantic_score": 0.0,
+        "bm25_score": 0.381,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.45238096
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330891",
+        "material_description": "BEARING,DEEPGROOVE,6408",
+        "uom": "PC",
+        "final_score": 1.142392337322235,
+        "semantic_score": 0.0,
+        "bm25_score": 0.381,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.41860464
+      },
+      {
+        "pk_plant_matnum": "OL11_OL06BG0622219A",
+        "material_description": "\"BEARING,SPHERICAL,22219 EK/C3\"",
+        "uom": "PC",
+        "final_score": 1.0984541773796082,
+        "semantic_score": 0.0,
+        "bm25_score": 0.366,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.24074075
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131331531",
+        "material_description": "BEARING,CYLINDRICAL ROLLER,NU 308 ECP [5",
+        "uom": "PC",
+        "final_score": 1.0301059484481812,
+        "semantic_score": 0.0,
+        "bm25_score": 0.343,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.13235295
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131331570",
+        "material_description": "BEARING,CYLINDRICAL ROLLER,NUP 309 ECP",
+        "uom": "PC",
+        "final_score": 1.0105778574943542,
+        "semantic_score": 0.0,
+        "bm25_score": 0.337,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.13432837
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131331526",
+        "material_description": "BEARING,CYLINDRICAL,NU 218 ECP (VMI)",
+        "uom": "PC",
+        "final_score": 1.0105778574943542,
+        "semantic_score": 0.0,
+        "bm25_score": 0.337,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16129032
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131335016",
+        "material_description": "BEARING,SPHERICAL,22217EK/W33",
+        "uom": "PC",
+        "final_score": 0.9666396975517273,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1754386
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131335138",
+        "material_description": "BEARING,SPHERICAL,24130CC/W33",
+        "uom": "PC",
+        "final_score": 0.9666396975517273,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1754386
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131331604",
+        "material_description": "BEARING,ROLLER,NU218ECP",
+        "uom": "PC",
+        "final_score": 0.9666396975517273,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1509434
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330967",
+        "material_description": "BEARING,DEEPGROOVE,62052Z",
+        "uom": "PC",
+        "final_score": 0.9666396975517273,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.4318182
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131335090",
+        "material_description": "BEARING,SPHERICAL,24132 CCK/W33 (VMI)-PB",
+        "uom": "PC",
+        "final_score": 0.9666396975517273,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16923077
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131335013",
+        "material_description": "BEARING,SPHERICAL ROLLER,22213 EK",
+        "uom": "PC",
+        "final_score": 0.9666396975517273,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16393442
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131335054",
+        "material_description": "BEARING,SPHERICAL ROLLER,22319 E",
+        "uom": "PC",
+        "final_score": 0.9666396975517273,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16666667
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131330620",
+        "material_description": "BEARING,DEEPGROOVE,60052Z",
+        "uom": "PC",
+        "final_score": 0.9666396975517273,
+        "semantic_score": 0.0,
+        "bm25_score": 0.322,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.4318182
+      },
+      {
+        "pk_plant_matnum": "7813_78060671334257",
+        "material_description": "BEARING,THRUST,29334 E(COM)",
+        "uom": "PC",
+        "final_score": 0.953214168548584,
+        "semantic_score": 0.0,
+        "bm25_score": 0.318,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18518518
+      },
+      {
+        "pk_plant_matnum": "7560_75060677604215",
+        "material_description": "BEARING,THRUST,29334 E  [VMI]",
+        "uom": "PC",
+        "final_score": 0.9422295391559601,
+        "semantic_score": 0.0,
+        "bm25_score": 0.314,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.16363636
+      },
+      {
+        "pk_plant_matnum": "PO11_PO06131335057",
+        "material_description": "BEARING,SPHERICAL ROLLER,22312 E/C3",
+        "uom": "PC",
+        "final_score": 0.9227015376091003,
+        "semantic_score": 0.0,
+        "bm25_score": 0.308,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.21666667
+      },
+      {
+        "pk_plant_matnum": "7560_75060677622221",
+        "material_description": "BEARING,SPHERICAL,29322 E   [VMI]",
+        "uom": "PC",
+        "final_score": 0.9227015376091003,
+        "semantic_score": 0.0,
+        "bm25_score": 0.308,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1754386
+      },
+      {
+        "pk_plant_matnum": "7811_78060701050000",
+        "material_description": "BEARING,UNIT,SYJ 40 TF (F)",
+        "uom": "PC",
+        "final_score": 0.8653377592563629,
+        "semantic_score": 0.0,
+        "bm25_score": 0.288,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.21568628
+      },
+      {
+        "pk_plant_matnum": "7511_78067302594997",
+        "material_description": "BEARING,SEAL, TXL 615 (F)",
+        "uom": "ST",
+        "final_score": 0.6981286704540253,
+        "semantic_score": 0.0,
+        "bm25_score": 0.233,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.25
+      },
+      {
+        "pk_plant_matnum": "7813_78067302576935",
+        "material_description": "BEARING,SEAL,TSNA513GE",
+        "uom": "ST",
+        "final_score": 0.6786005347967148,
+        "semantic_score": 0.0,
+        "bm25_score": 0.226,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.1764706
+      },
+      {
+        "pk_plant_matnum": "7813_78060655460000",
+        "material_description": "BEARING,UNIT,UCFL 205 D1,NTN",
+        "uom": "PC",
+        "final_score": 0.6456469595432281,
+        "semantic_score": 0.0,
+        "bm25_score": 0.215,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.18181819
+      },
+      {
+        "pk_plant_matnum": "7560_54060650443573",
+        "material_description": "BEARING,UNIT,FC-B22443E,LINK-BELT",
+        "uom": "PC",
+        "final_score": 0.6456469595432281,
+        "semantic_score": 0.0,
+        "bm25_score": 0.215,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.15254237
+      },
+      {
+        "pk_plant_matnum": "7812_78060654925591",
+        "material_description": "BEARING,UNIT,UCFL 205 D1 JPN30X1,NTN",
+        "uom": "PC",
+        "final_score": 0.6346623748540878,
+        "semantic_score": 0.0,
+        "bm25_score": 0.212,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.15873016
+      },
+      {
+        "pk_plant_matnum": "7813_78067338010142",
+        "material_description": "SEAL,35 X 47 X 7 MM.,2LIP,NBR",
+        "uom": "PC",
+        "final_score": 0.6199538558721542,
+        "semantic_score": 0.0,
+        "bm25_score": 0.207,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.032258064
+      },
+      {
+        "pk_plant_matnum": "7560_75067334291305",
+        "material_description": "SEAL,1.1/16 X 1.5/8 X 3/8 IN,2 LIP,(ZN)",
+        "uom": "PC",
+        "final_score": 0.6017087996006012,
+        "semantic_score": 0.0,
+        "bm25_score": 0.201,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.03125
+      },
+      {
+        "pk_plant_matnum": "7560_78065660348863",
+        "material_description": "BEARING,ACC,LOCK NUT,KM 34(F)",
+        "uom": "PC",
+        "final_score": 0.45890969038009644,
+        "semantic_score": 0.0,
+        "bm25_score": 0.153,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.17857143
+      },
+      {
+        "pk_plant_matnum": "7813_78067580340000",
+        "material_description": "BEARING,ACC,ADAPTER SLEEVE,H 2308(F)",
+        "uom": "PC",
+        "final_score": 0.4393816441297531,
+        "semantic_score": 0.0,
+        "bm25_score": 0.146,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.22033899
+      },
+      {
+        "pk_plant_matnum": "7580_75067340025710",
+        "material_description": "SEAL,OIL,25X40X7 MM,2LIP,VITON",
+        "uom": "PC",
+        "final_score": 0.43786825239658356,
+        "semantic_score": 0.0,
+        "bm25_score": 0.146,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.03076923
+      },
+      {
+        "pk_plant_matnum": "7811_78067334400835",
+        "material_description": "SEAL,140 X 170 X 14 MM.,?,NBR",
+        "uom": "PC",
+        "final_score": 0.4259561151266098,
+        "semantic_score": 0.0,
+        "bm25_score": 0.142,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.03508772
+      },
+      {
+        "pk_plant_matnum": "7511_75067334300468",
+        "material_description": "SEAL,330.20X368.30X19.05MM,HDS2,NBR(N)",
+        "uom": "PC",
+        "final_score": 0.4259561151266098,
+        "semantic_score": 0.0,
+        "bm25_score": 0.142,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.028169014
+      },
+      {
+        "pk_plant_matnum": "257A_25067A000030002",
+        "material_description": "SEAL,80X105X13MM,2LIPMETAL(TB),NBR",
+        "uom": "PC",
+        "final_score": 0.4259561151266098,
+        "semantic_score": 0.0,
+        "bm25_score": 0.142,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.029411765
+      },
+      {
+        "pk_plant_matnum": "7511_75067334222000",
+        "material_description": "SEAL,45X60X9MM,2Lip,NBR",
+        "uom": "PC",
+        "final_score": 0.4259561151266098,
+        "semantic_score": 0.0,
+        "bm25_score": 0.142,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.033898305
+      },
+      {
+        "pk_plant_matnum": "7511_75060657220000",
+        "material_description": "BEARING,HOUSING,SNL520-617(F)",
+        "uom": "PC",
+        "final_score": 0.4259561151266098,
+        "semantic_score": 0.0,
+        "bm25_score": 0.142,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.23076923
+      },
+      {
+        "pk_plant_matnum": "PO21_PO06131334526",
+        "material_description": "BEARING,LINEAR,NEEDLE BEARING STO 25 2Z",
+        "uom": "PC",
+        "final_score": 0.4259561151266098,
+        "semantic_score": 0.0,
+        "bm25_score": 0.142,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.21818182
+      },
+      {
+        "pk_plant_matnum": "7560_78067344615934",
+        "material_description": "SEAL,14\"X15.500\"X0.687\",2Lip,NBR",
+        "uom": "PC",
+        "final_score": 0.4259561151266098,
+        "semantic_score": 0.0,
+        "bm25_score": 0.142,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.0625
+      },
+      {
+        "pk_plant_matnum": "25AA_2506AA600027004",
+        "material_description": "BEARING,NEEDLE,ZARN 2052-TV,INA",
+        "uom": "PC",
+        "final_score": 0.41497157514095306,
+        "semantic_score": 0.0,
+        "bm25_score": 0.138,
+        "trigram_score": 0.0,
+        "trigram_raw_score": 0.15
+      }
+    ],
+    "search_time": 0.12346982955932617
+  }
+}
